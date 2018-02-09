@@ -1,5 +1,3 @@
-# Actionable Password Advice Based on the Probable-Wordlists
-
 ![Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
 
 <br>
