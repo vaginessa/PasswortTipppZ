@@ -1,5 +1,6 @@
 * [Post Listing](https://github.com/berzerk0/gitblog/wiki/Post-Listing)
-* [Main Page](https://berzerk0.github.io/GitPage/)
+* [[CTF Writeups](https://berzerk0.github.io/GitPage/CTF-Writeups/CTF-index.md)]
+* [How-To Guides](https://berzerk0.github.io/GitPage/How-To-Guides/HowTo-index.md)
 * [Twitter](https://twitter.com/berzerk0)
 
 <br>
