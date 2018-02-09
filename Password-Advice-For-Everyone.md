@@ -10,22 +10,21 @@ Make your passwords secure, and keep them that way!
 * Seriously. I'll come over there and shake some sense into you. Come on, son.
 * Password conventions can help you remember as many unique passwords as you want. I'll tell you how to set one up.
 
-###Do you know about 2-Factor Authentication?
-
-​* In some cases, it can keep you safe even if your password is compromised.
-
+### Do you know about 2-Factor Authentication?
+* ​In some cases, it can keep you safe even if your password is compromised.
 
 
-# Take Small Steps to Vastly Increase Your Password Security
+
+
+# Take These Small Steps to Vastly Increase Your Password Security
 ## Even if you have no reason to think you have been compromised
 
 1. __TURN ON TWO-FACTOR AUTHENTIFICATION__
 2. Change Your LinkedIn Password - [Why?](https://en.wikipedia.org/wiki/2012_LinkedIn_hack)
 3. Consider signing up at [https://haveibeenpwned.com/](https://haveibeenpwned.com/) to know be alerted your info gets leaked.
 4. Consider running your information through [Hacked-Emails](https://hacked-emails.com/)
-5. Consider Using a Password Manager
-6. Consider changing all your passwords to more secure ones
-7. If you are guilty of password reuse - stop it. Change those passwords, as soon as possible.
+5. If you are guilty of password reuse - stop it. Change those passwords, as soon as possible.
+
 
 Two-factor authentication adds another step to your security. If someone (including you) wants to log in to an account on a new device, it will generate a confirmation code only lasts a few minutes that only you will have access to. Either way, you will know if someone is trying to log on to your account using a device that you haven't logged onto it yet with.
 
@@ -33,10 +32,13 @@ Two-factor authentication adds another step to your security. If someone (includ
 Go to [https://www.turnon2fa.com/](https://www.turnon2fa.com/) and follow instructions for all the platforms you wish.
 
 
+You might wish to change all your passwords to more unique, secure ones. I wouldn't necessarily call that a small step, however. However, if you have being reusing passwords across different accounts, __CHANGE THEM ALL__.
 
-# How To Create A More Secure Password - The Short Version
 
-If you'd like to see the longer version of how to create a good password, check out the post containing data from the Probable Wordlists. [[Actionable Password Advice Based on the Probable Wordlists]]
+# Properties of A Good Password - The Short Version
+
+If you'd like to see the longer version of how to create a good password, check out the post containing data from the Probable Wordlists. <br>
+[[Actionable Password Advice Based on the Probable Wordlists]]
 
 
 ### Password Length Is Most Important
@@ -44,10 +46,9 @@ Use a  MINIMUM of 8 characters, my minimum is 12. <br>
 One way to break passwords is brute force. There are a *lot* of character combinations and they just try each one. Depending on length, this can take a very small or *ASTRONOMICALLY ENORMOUS* period of time.The time it would take an average computer to try all combinations of 16 letters and numbers is __44 Million Years.__
 
 
-
 ### Character Diversity
 The majority of passwords in leak files today use just letters and and numbers, buck this trend to make your password *obscenely* less likely to be brute forced. The time it would take an average computer to try all combinations of 16 letters, numbers and symbols is __about than 9 times larger than the current age of the universe.__
-[See here for more details.](https://www.password-depot.com/know-how/brute-force-attacks.htm)
+
 
 
 ### Passwords Should NEVER Contain Biographical Information Or Anything Easily Found Online
@@ -55,9 +56,6 @@ Do NOT include the name of your hometown, High School, pets, etc. Why brute forc
 
 
 # More Password/Identity Security Measures
-
-## Use A Password Manager
-If you want to go the next level and have your passwords remembered for you while still being secure, there are password managers. This has the added benefit of preventing you from the danger of keystroke capturing software and phishing attempts - which is when they try to trick you into typing in a real password at a fake website. Many managers offer Two-Factor authentication, password report cards, password age monitoring and secure generation. Their use is recommended by Information Security professionals around the world.
 
 
 ## Beware of Scams!
@@ -87,3 +85,6 @@ In practice, this has lead to pseudo-reuse. *"I'm not going to be able to rememb
 
 
 It still is wise to change your passwords once in a while, however. If somehow, someone has compromised your full credentials, they might not make this information public. If they dump the information or sell it online, the likelihood that you will be notified of the breach goes up. They might have put a lot of time and effort into cracking a list of credentials that includes yours, and a change of the credentials might render that effort useless.
+
+## Use A Password Manager
+If you want to go the next level and have your passwords remembered for you while still being secure, there are password managers. This has the added benefit of preventing you from the danger of keystroke capturing software and phishing attempts - which is when they try to trick you into typing in a real password at a fake website. Many managers offer Two-Factor authentication, password report cards, password age monitoring and secure password generation. Their use is recommended by Information Security professionals around the world.
