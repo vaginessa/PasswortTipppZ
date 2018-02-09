@@ -4,4 +4,4 @@ Here's where I put little bits of writing that don't belong in CTF-Writeups or H
 
 | Date | Title |
 |------|-------|
-8 Feb 2018 | [Test](https://berzerk0.github.io/gitblog/)
+31 January 2018 | [[Actionable Password Advice Based on the Probable Wordlists]]
