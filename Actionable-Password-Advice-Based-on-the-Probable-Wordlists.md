@@ -66,22 +66,15 @@ Passwords included in this analysis appeared at least 10 times in the [Probable 
 
 Advice based on data from each analysis are included on the charts themselves.
 
-<br>
-![Password Length Trends](https://github.com/berzerk0/GitPage/blob/gh-pages/images/Length_Trends.png?raw=true)
-<br>
 
-
-<br>
-![Password Character Use Trends](https://raw.githubusercontent.com/berzerk0/GitPage/gh-pages/images/Characters_Used.png)
+![Length](https://github.com/berzerk0/GitPage/blob/gh-pages/images/Length_Trends.png)
 <br>
 
-
-<br>
-![Password Character Order Trends](https://raw.githubusercontent.com/berzerk0/GitPage/gh-pages/images/Character_Order.png)
+![Chars Used](https://raw.githubusercontent.com/berzerk0/GitPage/gh-pages/images/Characters_Used.png)
 <br>
 
-
-
+![Char Order](https://raw.githubusercontent.com/berzerk0/GitPage/gh-pages/images/Character_Order.png)
+<br>
 
 ### The Power of Hashcat and Other Cracking Tools
 
