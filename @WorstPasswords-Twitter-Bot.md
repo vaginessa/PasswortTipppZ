@@ -3,8 +3,8 @@
 ### 21 Feb 2018
 
 
-### If the bot tweets one of your passwords, __change it.__  <br>
-This is not the moment to say "*haha that is so me!*" and like the tweet. It means you are at an increased security risk.
+### If the bot tweets one of your passwords, __*change it*.__  <br>
+This is not the moment to say "*haha that is so me!*" and just like the tweet. It means you are at an increased security risk.
 
 
 ## Overview
